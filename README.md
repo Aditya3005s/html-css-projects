@@ -30,6 +30,9 @@ A card showcasing a travel destination with an image and description. Built usin
 ### 🎬 8. Netflix Clone
 A basic homepage layout inspired by Netflix UI. Practiced using grid and flexbox, background images, and font imports.
 
+### 9.Amazon Clone
+basic amazon homepage layout. Mainly used flexbox
+
 ---
 
 ## 🛠 Tech Stack
